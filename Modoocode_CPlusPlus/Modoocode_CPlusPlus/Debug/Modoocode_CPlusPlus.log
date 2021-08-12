@@ -1,2 +1,5 @@
-﻿  4-2. 클래스의 세계로 오신 것을 환영합니다. (함수의 오버로딩, 생성자).cpp
+﻿  4-3. 스타크래프트를 만들자 1 (복사 생성자, 소멸자).cpp
+D:\7. GitHub Desktop\2. Modoocode_CPlusPlus\Modoocode_CPlusPlus\Modoocode_CPlusPlus\4-3. 스타크래프트를 만들자 1 (복사 생성자, 소멸자).cpp(50,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\7. GitHub Desktop\2. Modoocode_CPlusPlus\Modoocode_CPlusPlus\Modoocode_CPlusPlus\4-3. 스타크래프트를 만들자 1 (복사 생성자, 소멸자).cpp(148,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\7. GitHub Desktop\2. Modoocode_CPlusPlus\Modoocode_CPlusPlus\Modoocode_CPlusPlus\4-3. 스타크래프트를 만들자 1 (복사 생성자, 소멸자).cpp(161,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   Modoocode_CPlusPlus.vcxproj -> D:\7. GitHub Desktop\2. Modoocode_CPlusPlus\Modoocode_CPlusPlus\Debug\Modoocode_CPlusPlus.exe
